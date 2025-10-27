@@ -43,7 +43,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenraj2206&theme=radical" alt="Heatmap Productive Time" />
 </p>
 
-
-https://leetcard.jacoblin.cool/Praveen2206?font=milonga&ext=activity&cache=0
+https://leetcard.jacoblin.cool/Praveen2206?cache=0
 
 
