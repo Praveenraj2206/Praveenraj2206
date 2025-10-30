@@ -24,7 +24,7 @@
 ### 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenraj2206&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Praveenraj2206&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -42,6 +42,7 @@
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenraj2206&theme=radical" alt="Heatmap Productive Time" />
 </p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/Praveen2206?font=milonga)
 
+---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/__praveen_?font=milonga&theme=dark)
