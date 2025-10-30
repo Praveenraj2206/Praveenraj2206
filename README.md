@@ -20,13 +20,6 @@
 </p>
 
 ---
-
-### 🔥 GitHub Streak
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.vercel.app?user=Praveenraj2206&theme=radical&date=2025-10-30" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 📈 Most Used Languages
@@ -45,4 +38,4 @@
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/__praveen_?font=milonga&theme=dark)
+![](https://leetcard.jacoblin.cool/__praveen_?ext=heatmap)
