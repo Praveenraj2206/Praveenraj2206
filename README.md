@@ -22,12 +22,13 @@
 ---
 ---
 
+<!--
 ### 📈 Most Used Languages
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenraj2206&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 ### 🌱 Contributions Graph
@@ -38,4 +39,7 @@
 
 ---
 
+<!--
 ![](https://leetcard.jacoblin.cool/__praveen_?ext=heatmap)
+-->
+
