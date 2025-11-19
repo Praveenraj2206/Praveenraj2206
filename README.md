@@ -22,7 +22,7 @@
 
 ### **Core Tools**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,eclipse,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,eclipse,ubuntu,pycharm" />
 </div>
 
 ### **Additional Tools**
