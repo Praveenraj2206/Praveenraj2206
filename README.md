@@ -5,7 +5,7 @@
 ## 💻 Tech Stack
 
 ### **Programming Languages**
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c,java,py" />
 </div>
 
