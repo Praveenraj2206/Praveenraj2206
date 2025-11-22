@@ -61,3 +61,12 @@
   <img src="https://leetcard.jacoblin.cool/__praveen_?ext=heatmap" width="80%" />
 </p>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=7aa2f7&height=180&section=header" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=1a1b27&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+👋+Praveen+Raj+S;Python+Developer;Java+Developer;AI+Enthusiast+%7C+Cloud+%26+NLP+Explorer" alt="Typing Animation" />
+</a>
+
+</div>
