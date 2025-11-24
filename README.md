@@ -108,3 +108,21 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="futuristic code animation" />
 </div>
+
+--- 
+
+### **Contribution Graph**
+<div align="center">
+  <div style="
+    padding: 20px;
+    border: 2px solid #38BDF8;
+    border-radius: 15px;
+    display: inline-block;
+  ">
+    <img 
+      src="https://raw.githubusercontent.com/Praveenraj2206/Praveenraj2206/main/dist/github-contribution-grid-snake.svg" 
+      width="600"
+    />
+  </div>
+</div>
+
