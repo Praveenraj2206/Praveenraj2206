@@ -1,9 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=38BDF8&width=100%&height=150§ion=header"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=5000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi+there;I'm+👋+Praveen+Raj+S;Python+Developer;Java+Developer;AI+%7C+Cloud+%26+NLP+Explorer." alt="Typing SVG" width="60%"/>
-</div>
 <!-- Top Wave Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=38BDF8&width=100%25&height=150&section=header"/>
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=5000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there;I'm+👋+Praveen+Raj+S;Python+Developer;Java+Developer;AI+%7C+Cloud+%26+NLP+Explorer." 
+    alt="Typing SVG"
+    width="60%"
+  />
+</div>
+
 
 ---
 
