@@ -1,17 +1,9 @@
-<div align="center" 
-     style="position: relative; display: inline-block; width: 50%; text-align: center;">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=38BDF8&width=100%&height=150§ion=header"/>
 
-  <!-- Background Image -->
-  <img src="https://files.catbox.moe/zgzvfc.jpg" width="100%" alt="Wavy Background" />
-
-  <!-- Overlay Typing Text -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=33CEFF&center=true&vCenter=true&width=700&lines=Hi+there;I'm+👋+Praveen+Raj+S;Python+Developer;Java+Developer;AI+%7C+Cloud+%26+NLP+Explorer" />
-    </a>
-  </div>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=5000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi+there;I'm+👋+Praveen+Raj+S;Python+Developer;Java+Developer;AI+%7C+Cloud+%26+NLP+Explorer." alt="Typing SVG" width="60%"/>
 </div>
+<!-- Top Wave Animation -->
 
 ---
 
