@@ -51,7 +51,11 @@
 
 ---
 
-
+### 📊 **GitHub Stats**
+</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenraj2206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="60%" />
+</div>
 
 ---
 
