@@ -38,7 +38,7 @@
 
 <p align="center">Core Tools</p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,eclipse,pycharm,anaconda" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,eclipse,pycharm,anaconda,notebook" />
 </div>
 
 <p align="center">Additional Tools</p>
