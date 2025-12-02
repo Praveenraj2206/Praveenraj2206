@@ -38,7 +38,7 @@
 
 <p align="center">Core Tools</p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,eclipse,pycharm,anaconda,vmwareworkstation" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,eclipse,pycharm,anaconda" />
 </div>
 
 <p align="center">Additional Tools</p>
@@ -55,7 +55,7 @@
 ### 📊 **GitHub Stats**
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenraj2206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenraj2206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="60%" />
 </div>
 
 ---
