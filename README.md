@@ -12,12 +12,10 @@
   />
 </div>
 
-
 ---
 
-### 💻 **Tech Stack**
+## 💻 Tech Stack
 </p>
-
 <p align="center">Programming Languages
 </p>
 <div align="center">
@@ -25,23 +23,26 @@
 </div>
 
 ---
-
-<p align="center">🗄️ Databases</p>
+</p>
+<p align="center">🗄️ Databases
+</p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </div>
 
 ---
 
-### **Tools & Technologies**
+## 🔧 Tools & Technologies
 </p>
-
-<p align="center">Core Tools</p>
+<p align="center">Core Tools
+</p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,eclipse,pycharm,anaconda" />
 </div>
 
-<p align="center">Additional Tools</p>
+</p>
+<p align="center">Additional Tools
+</p>
 <div align="center" style="margin-top: 10px;">
   <img src="https://img.shields.io/badge/Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -52,80 +53,68 @@
 
 ---
 
-### 📊 **GitHub Stats**
-</p>
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenraj2206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Praveenraj2206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="60%" />
 </div>
 
 ---
 
-### 📈 **Most Used Languages**
-</p>
+## 📈 Most Used Languages
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenraj2206&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Praveenraj2206&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 ---
 
-### 🔥 **Productivity & Contributions**</p>
+## 🔥 Productivity & Contributions
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenraj2206&theme=tokyonight" alt="Heatmap Productive Time" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveenraj2206&theme=tokyonight" width="60%" />
 </div>
 
 ---
-<!--
--->
-### 🧩 **LeetCode Heatmap**</p>
+
+## 🧩 LeetCode Heatmap
+
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/__praveen_?ext=heatmap" width="60%" />
 </div>
 
 ---
 
-
-### 🌎 Connect With Me
-
+## 🌎 Connect With Me
 <div align="center">
-  <!-- LinkedIn -->
+
   <a href="https://www.linkedin.com/in/praveenrajs22" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- Instagram -->
   <a href="https://instagram.com/__https_praveen__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <!-- Gmail -->
   <a href="mailto:praveenrajs2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <!-- GitHub -->
   <a href="https://github.com/Praveenraj2206" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
 </div>
+
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="futuristic code animation" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" />
 </div>
 
---- 
+---
 
-### **Contribution Graph**
+## 🐍 Contribution Graph Snake
 <div align="center">
-  <div style="
-    padding: 20px;
-    border: 2px solid #38BDF8;
-    border-radius: 15px;
-    display: inline-block;
-  ">
-    <img 
-      src="https://raw.githubusercontent.com/Praveenraj2206/Praveenraj2206/main/dist/github-contribution-grid-snake.svg" 
-      width="600"
-    />
-  </div>
+  <img src="https://raw.githubusercontent.com/Praveenraj2206/Praveenraj2206/main/dist/github-contribution-grid-snake.svg" width="600" />
 </div>
-
