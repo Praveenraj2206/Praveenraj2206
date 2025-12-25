@@ -77,13 +77,12 @@
 
 ---
 <!--
--->
 ## 🧩 LeetCode Heatmap
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/__praveen_?ext=heatmap" width="60%" />
 </div>
-
+-->
 ---
 
 ## 🌎 Connect With Me
