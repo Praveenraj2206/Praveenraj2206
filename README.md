@@ -103,6 +103,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
+  <a href="Praveen_CV.pdf">
+    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge" />
+  </a>
+
+
 </div>
 
 ---
